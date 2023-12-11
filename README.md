@@ -45,3 +45,17 @@ mkdir ./0x00-python_variable_annotations/
 touch ./0x00-python_variable_annotations/README.md
 cd 0x00-python_variable_annotations
 ```
+
+![0x01. Python - Async](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2019/12/4aeaa9c3cb1f316c05c4.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20230109%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230109T084811Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=cb0c5eafff2d6059744f50a49e7c4a53c834899a619d9b2a07e23864a04e7f62)
+## [0x00. Python - Variable Annotations](0x01-python_async_function)
+Type Annotation (Strongly Dynamically typed) in python. Reason for implementing type Annotation:
+1. Code documentation.
+2. Linting and validation.
+
+### :wrench: Project setup.
+```bash
+# Create project directory and readme.
+mkdir ./0x01-python_async_function/
+touch ./0x01-python_async_function/README.md
+cd 0x01-python_async_function
+```
