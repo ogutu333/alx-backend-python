@@ -59,3 +59,16 @@ mkdir ./0x01-python_async_function/
 touch ./0x01-python_async_function/README.md
 cd 0x01-python_async_function
 ```
+
+## [0x02. Python - Async Comprehension](0x02-python_async_comprehension)
+Type Annotation (Strongly Dynamically typed) in python. Reason for implementing type Annotation:
+1. Code documentation.
+2. Linting and validation.
+
+### :wrench: Project setup.
+```bash
+# Create project directory and readme.
+mkdir ./0x02-python_async_comprehension/
+touch ./0x02-python_async_comprehension/README.md
+cd 0x02-python_async_comprehension
+```
